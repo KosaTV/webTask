@@ -1,23 +1,23 @@
 .cta {
-  background-color: #ED4C5C;
-  padding: 9rem 0;
-  
-  & .container {
-    max-width: 111rem;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-  }
+	background-color: #ed4c5c;
+	padding: 9rem 0;
 
-  & .content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    max-width: 44.4rem;
+	& .container {
+		max-width: 111rem;
+		margin: 0 auto;
+		display: flex;
+		justify-content: space-between;
+	}
 
-    & > p {
-      margin: 2.4rem 0 4rem 0;
-    }
-  }
+	& .content {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: flex-start;
+		max-width: 44.4rem;
+
+		& > p {
+			margin: 2.4rem 0 4rem 0;
+		}
+	}
 }
